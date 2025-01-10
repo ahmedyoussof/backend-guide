@@ -6,15 +6,15 @@ A comprehensive study plan for modern backend development, following an evolutio
 
 ```
 modern-backend-study/
-├── docs/
-│   ├── learning-plan.md       # Detailed learning plan with timeline
-│   ├── resources.md           # Curated list of learning resources
-│   └── detailed-guide.md      # In-depth technical concepts guide
-├── code/                      # Code examples for each phase
+├── guide/
+│   ├── 00-backend-detailed-guide.md  # In-depth technical concepts guide
+│   ├── 01-learning-plan.md      #  Detailed learning plan with timeline
+│   └── 02-backend-resources.md  # Useful resources for backend development
+├── code/                      # phases of the implementation
 │   ├── phase1-monolith/
 │   ├── phase2-enhancement/
 │   └── phase3-microservices/
-└── exercises/                 # Practice exercises and assignments
+
 ```
 
 ## Learning Path Overview
@@ -37,7 +37,7 @@ modern-backend-study/
 
 ## Getting Started
 
-1. Review the learning plan in `docs/learning-plan.md`
+1. Review the learning plan in `guide/00-backend-detailed-guide.md`
 2. Set up your development environment
 3. Follow the weekly structure
 4. Complete exercises in the exercises directory
