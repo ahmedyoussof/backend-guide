@@ -9,11 +9,7 @@ Key focus for technical leadership and team collaboration.
   - git bisect for debugging
   - git hooks for automation
   - monorepo management
-- **Team Workflow Management**: 
-  - trunk-based development
-  - feature flags
-  - release train approach
-  - automated merge strategies
+
 - **Code Review Leadership**: 
   - architectural reviews
   - mentoring through PRs
@@ -24,7 +20,6 @@ Key focus for technical leadership and team collaboration.
 Current best practices in backend development.
 - **Spring Boot 3.x Ecosystem**: 
   - reactive programming
-  - native compilation
   - cloud-native features
   - modern observability
 - **Architecture Patterns**: 
@@ -63,18 +58,14 @@ Scaling data in modern architectures.
 - **Event Sourcing**: 
   - event store design
   - CQRS implementation
-  - event versioning
-  - replay capabilities
+
 - **Modern Caching**: 
   - distributed caching
-  - cache coherence
   - invalidation strategies
-  - cache-aside patterns
+
 - **Data Consistency**: 
   - eventual consistency
-  - saga patterns
   - distributed transactions
-  - conflict resolution
 
 ## 3. Modern API Architecture
 
@@ -83,9 +74,8 @@ Strategic approach to API development.
 - **API Gateway Patterns**: 
   - rate limiting
   - circuit breaking
-  - request aggregation
-  - transformation layers
-- **GraphQL Implementation**: 
+
+- **GraphQL Implementation (optional)**: 
   - schema design
   - resolver optimization
   - batching strategies
@@ -105,7 +95,6 @@ Current security best practices.
   - runtime security
 - **Modern Auth Patterns**: 
   - OAuth 2.1 updates
-  - PKCE implementation
   - token management
   - refresh strategies
 
