@@ -37,7 +37,7 @@ modern-backend-study/
 
 ## Getting Started
 
-1. Review the learning plan in `guide/00-backend-detailed-guide.md`
+1. Review the learning plan in [`guide/00-backend-detailed-guide.md`](guide/00-backend-detailed-guide.md)
 2. Set up your development environment
 3. Follow the weekly structure
 4. Complete exercises in the exercises directory
